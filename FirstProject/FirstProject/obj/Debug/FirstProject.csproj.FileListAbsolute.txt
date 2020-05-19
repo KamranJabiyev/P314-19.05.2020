@@ -1,0 +1,6 @@
+E:\P314\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+E:\P314\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+E:\P314\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+E:\P314\FirstProject\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+E:\P314\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+E:\P314\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
